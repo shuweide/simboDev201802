@@ -1,6 +1,6 @@
 ### 使用步驟
 
-0. 依照OS安裝[VirtualBox](https://www.virtualbox.org/wiki/Downloads) 及[Vagrant](https://www.vagrantup.com/)。
+0. 依照OS安裝[VirtualBox(包含VirtualBox Extension Pack)](https://www.virtualbox.org/wiki/Downloads) 及[Vagrant](https://www.vagrantup.com/)。
 
 1. Clone Git
 
