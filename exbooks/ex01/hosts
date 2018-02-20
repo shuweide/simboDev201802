@@ -1,6 +1,0 @@
-[webservers]
-WS01 ansible_ssh_host=192.168.205.11 ansible_ssh_port=22 ansible_ssh_user=vagrant
-WS02 ansible_ssh_host=192.168.205.12 ansible_ssh_port=22 ansible_ssh_user=vagrant
-
-[webservers:vars]
-ansible_python_interpreter=/usr/bin/python3
