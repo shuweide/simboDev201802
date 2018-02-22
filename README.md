@@ -36,6 +36,23 @@ vagrant halt
 ```
 ![Image of Vagrant status poweroff](https://raw.githubusercontent.com/shuweide/simboDev201802/master/images/vagrant%20status%20poweroff.png)
 
+### 其他 Vagrant Command
+
+* 刪除vagrant host
+```vagrant
+vagrant destroy
+```
+
+* 列出Vagrant box list
+```vagrant
+vagrant box list
+```
+
+* 刪除Vagrant box
+```vagrant
+vagrant box remove [box name]
+```
+
 ### 參考
 
 - [Vagrant Documentation](https://www.vagrantup.com/docs/index.html) 
