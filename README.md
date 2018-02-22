@@ -43,12 +43,12 @@ vagrant halt
 vagrant destroy
 ```
 
-* 列出Vagrant box list
+* 列出vagrant box list
 ```vagrant
 vagrant box list
 ```
 
-* 刪除Vagrant box
+* 刪除vagrant box
 ```vagrant
 vagrant box remove [box name]
 ```
